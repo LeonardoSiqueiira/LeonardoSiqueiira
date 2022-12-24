@@ -1,5 +1,5 @@
 # 💫 AboutMe:
- Atualmente sou Analista de Sistemas I atuando com ERP TOTVS PROTHEUS nos módulos de Materiais.<br>E estou buscando oportunidades em Front-End, estou estudando atualmente  JavaScript.<br>
+ Atualmente sou Analista de Sistemas I atuando com ERP TOTVS PROTHEUS.<br> Estou estudando atualmente JavaScript e typeScript.<br>
 
 
 ## 🌐 Socials:
