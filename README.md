@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leonardo-siqueira-a342101a3/) 
 
 # 💻 Tech Stack: <br>
+- **Linguagens de Programação** <br>
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
